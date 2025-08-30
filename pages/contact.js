@@ -58,13 +58,13 @@ export default function Contact() {
 									<ul>
 										<li>
 											<i className="zmdi zmdi-pin"></i>
-											<span>A-219, Pal Shilpgram Riico Industrial Area</span>
+											<span>H-182, 3rd Phase, RIICO Industrial Area, Boranada</span>
 											<span>Jodhpur, Rajasthan (IN)</span>
 										</li>
 										<li>
 											<i className="zmdi zmdi-phone"></i>
-											<span>+91-98294 74326</span>
-											<span>+91-72908 19777</span>
+											<span>+91-74129 72658</span>
+											<span>+91-87642 32343</span>
 										</li>
 										<li>
 											<i className="zmdi zmdi-email"></i>

@@ -73,9 +73,9 @@ export default function Footer({title , your_products}) {
 								<div className="single-footer">
 									<h3 className="footer-title  title-border">Contact Us</h3>
 									<ul className="footer-contact">
-										<li><span>Address :</span>A-219, Pal Shilpgram Riico<br/>Industrial Area, Jodhpur, Rajasthan (IN)</li>
-										<li><span>Cell-Phone :</span>+91-98294 74326 &nbsp; +91-74129 72658 <br/> +91-72908 19777</li>
-										<li><span>Email :</span>info@woodsleaf.com <br/> team@woodsleaf.com</li>
+										<li><span>Address :</span>H-182, 3rd Phase, RIICO <br/>Industrial Area, Boranada, Jodhpur, Rajasthan (IN)</li>
+										<li><span>Cell-Phone :</span>+91-83062 32343 &nbsp; +91-74129 72658 <br/> +91-87642 32343</li>
+										<li><span>Email :</span>info@dcraftive.com <br/> team@dcraftive.com</li>
 									</ul>
 								</div>
 							</div>
@@ -154,7 +154,7 @@ export default function Footer({title , your_products}) {
 						<div className="row">
 							<div className="col-md-6">
 								<div className="copyright">
-									<p className="mb-0">&copy; woodsleaf.com 2023. All Rights Reserved.</p>
+									<p className="mb-0">&copy; dcraftive.com 2025. All Rights Reserved.</p>
 								</div>
 							</div>
 							<div className="col-md-6">

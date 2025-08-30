@@ -156,7 +156,7 @@ export default function ProductScreen({product}) {
 											) : (	
 												<button onClick={() => addToWishlistHandler(product)} data-bs-toggle="tooltip" data-placement="top" title="Add to wishlist"><i className="zmdi zmdi-favorite-outline"></i></button>
 											)}
-											<a  href={`//api.whatsapp.com/send?phone=917290819777&text=https://dcraftive.com/product/${product.slug} || please customize this product for me`} title="You like it but want it customized ?"><i className="zmdi zmdi-whatsapp"></i></a>
+											<a  href={`//api.whatsapp.com/send?phone=918764232343&text=https://dcraftive.com/product/${product.slug} || please customize this product for me`} title="You like it but want it customized ?"><i className="zmdi zmdi-whatsapp"></i></a>
 											<button onClick={() => showProduct(product)}  data-bs-toggle="modal"  data-bs-target="#productModal" data-placement="top" title="share"><i className="zmdi zmdi-share"></i></button>
 											<button onClick={addToCartHandler} data-bs-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="zmdi zmdi-shopping-cart-plus"></i></button>
 										</div>

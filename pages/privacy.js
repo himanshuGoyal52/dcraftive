@@ -72,7 +72,7 @@ export default function PrivacyScreen() {
 												<li>All shipments will be shipped within 4-6 Weeks based on your location, unless otherwise specified in this Website or by our customer service executives.</li>
 												<li>Customised order will be shipped in 7-8 Weeks.</li>
 												<li>In some circumstances / conditions product can be delayed by 24-25 Weeks.</li>
-												<li>You may contact us at support@dcraftive.com for any and all clarifications relating to your orders or call our customer service executives at +91 7290819777.</li>
+												<li>You may contact us at support@dcraftive.com for any and all clarifications relating to your orders or call our customer service executives at +91 8764232343.</li>
 											</ol>
 
 											<h5>Delivery</h5>

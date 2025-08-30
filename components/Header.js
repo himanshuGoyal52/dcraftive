@@ -66,7 +66,7 @@ export default function Header({title}) {
 						<div className="row">
 							<div className="col-md-4 offset-md-4 col-7">
 								<div className="logo text-md-center">
-									<Link href="/"><img style={{cursor:'pointer'}} src="/img/logo/logo.png"  alt="Woodsleaf" /></Link>
+									<Link href="/"><img style={{cursor:'pointer'}} src="/img/logo/logo.png"  alt="Dcraftive" /></Link>
 								</div>
 							</div>
 							<div className="col-md-4 col-5">
